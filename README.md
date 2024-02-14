@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about android, web dev, Google Developers, Microsoft Student Learn Ambassadors, Developer Advocacy, CS Education.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/darrendbutler/)
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm from the Bahamas :bahamas: 
 
 <!--

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Study Buddies](https://github.com/darrendbutler/Study-Buddies).
-- 🌱 I’m currently learning Android, JQuery, React, Data Structures and Algortihms.
+- 🔭 I’m currently working on (Learning Analytics)[https://www.solaresearch.org/about/what-is-learning-analytics/].
+- 🌱 I’m currently learning PyData Stacks, R, Make, and Docker.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
 - 💬 Ask me about android, web dev, Google Developers, Microsoft Student Learn Ambassadors, Developer Advocacy, CS Education.

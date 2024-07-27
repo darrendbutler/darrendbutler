@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on (Learning Analytics)[https://www.solaresearch.org/about/what-is-learning-analytics/].
+- 🔭 I’m currently working on [Learning Analytics](https://www.solaresearch.org/about/what-is-learning-analytics/).
 - 🌱 I’m currently learning PyData Stacks, R, Make, and Docker.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
